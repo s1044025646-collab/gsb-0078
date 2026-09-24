@@ -1,0 +1,10 @@
+{
+  "code": "SITE-ALPHA",
+  "name": "Fictional Riverside Drill Shelter",
+  "reason": "local emergency drill baseline",
+  "capacities": [
+    { "bedType": "standard", "accessible": false, "capacity": 2 },
+    { "bedType": "standard", "accessible": true, "capacity": 1 },
+    { "bedType": "family", "accessible": false, "capacity": 2 }
+  ]
+}

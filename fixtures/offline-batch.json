@@ -1,0 +1,23 @@
+{
+  "batchId": "OFFLINE-DRILL-001",
+  "checksum": "sha256:fictional-offline-checksum-001",
+  "operations": [
+    {
+      "type": "roster",
+      "householdCode": "HH-OFFLINE-001",
+      "checksum": "fictional-offline-household-checksum",
+      "members": [
+        { "code": "M-OFFLINE-001", "bedType": "standard", "accessibleRequired": false }
+      ]
+    },
+    {
+      "type": "inventory",
+      "code": "BATCH-OFFLINE-WATER",
+      "sku": "WATER",
+      "kind": "supply",
+      "quantity": 5,
+      "unit": "bottle",
+      "source": "fictional offline kit"
+    }
+  ]
+}

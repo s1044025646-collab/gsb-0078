@@ -1,0 +1,10 @@
+{
+  "code": "SITE-BETA",
+  "name": "Fictional Hilltop Drill Shelter",
+  "reason": "local emergency drill transfer target",
+  "capacities": [
+    { "bedType": "standard", "accessible": false, "capacity": 4 },
+    { "bedType": "standard", "accessible": true, "capacity": 2 },
+    { "bedType": "family", "accessible": false, "capacity": 4 }
+  ]
+}

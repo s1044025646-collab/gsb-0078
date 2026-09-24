@@ -1,0 +1,8 @@
+{
+  "code": "HH-DRILL-001",
+  "checksum": "fictional-checksum-001",
+  "members": [
+    { "code": "M-ANON-001", "bedType": "standard", "accessibleRequired": false },
+    { "code": "M-ANON-002", "bedType": "standard", "accessibleRequired": true }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "BATCH-MEAL-001",
+  "sku": "MEAL-BOX",
+  "kind": "meal",
+  "quantity": 3,
+  "unit": "box",
+  "source": "fictional drill warehouse",
+  "reason": "drill meal stock"
+}
