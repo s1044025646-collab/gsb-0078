@@ -1,0 +1,9 @@
+{
+  "batchKey": "nightly-inventory-2026-09-24",
+  "kind": "inventory",
+  "records": [
+    { "record_key": "i1", "shelter_id": 1, "item_code": "MEAL", "qty": 200 },
+    { "record_key": "i2", "shelter_id": 1, "item_code": "WATER", "qty": 300 },
+    { "record_key": "i3", "shelter_id": 2, "item_code": "MEAL", "qty": 100 }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "batchKey": "nightly-roster-2026-09-24",
+  "kind": "checkin_roster",
+  "records": [
+    { "record_key": "r1", "household_code": "HH-SOLO-03", "shelter_id": 1, "reason": "夜间批量导入" },
+    { "record_key": "r2", "household_code": "HH-SOLO-04", "shelter_id": 1, "reason": "夜间批量导入" },
+    { "record_key": "r3", "household_code": "HH-SOLO-05", "shelter_id": 1, "reason": "夜间批量导入" }
+  ]
+}

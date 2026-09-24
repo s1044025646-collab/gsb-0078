@@ -1,0 +1,12 @@
+[
+  { "code": "HH-FAM-01", "size": 4, "needs_accessible": false, "members": [{"code":"HH-FAM-01-A"},{"code":"HH-FAM-01-B"},{"code":"HH-FAM-01-C"},{"code":"HH-FAM-01-D"}] },
+  { "code": "HH-FAM-02", "size": 3, "needs_accessible": false },
+  { "code": "HH-ACC-01", "size": 2, "needs_accessible": true, "members": [{"code":"HH-ACC-01-A","needs":{"wheelchair":true}},{"code":"HH-ACC-01-B"}] },
+  { "code": "HH-ACC-02", "size": 1, "needs_accessible": true },
+  { "code": "HH-SOLO-01", "size": 1, "needs_accessible": false },
+  { "code": "HH-SOLO-02", "size": 1, "needs_accessible": false },
+  { "code": "HH-SOLO-03", "size": 1, "needs_accessible": false },
+  { "code": "HH-SOLO-04", "size": 1, "needs_accessible": false },
+  { "code": "HH-SOLO-05", "size": 1, "needs_accessible": false },
+  { "code": "HH-SOLO-06", "size": 1, "needs_accessible": false }
+]
